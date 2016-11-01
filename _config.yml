@@ -39,7 +39,7 @@ favicon: "/img/favicon-terminal.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/favicon-terminal.ico"
+black-favicon: "fa-2x fa-terminal"
 
 background-img: "../img/intro-bg.jpg"
 
