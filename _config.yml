@@ -16,7 +16,7 @@ baseurl: ""
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-86673704-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -102,7 +102,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "codeitsimple"
 
 syntax-highlight: True
 
@@ -126,7 +126,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "aldrouin@codeitsimple.com"
 
 ################
 # Author Blurb #
@@ -160,14 +160,6 @@ social:
 ############
 
 404-img: "/img/labtocat.png"
-
-##################
-# GPG on Keybase #
-##################
-
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
 
 ################################################################################
 
