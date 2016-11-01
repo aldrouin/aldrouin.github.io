@@ -136,8 +136,8 @@ email: "aldrouin@codeitsimple.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb: "Alexandre Lafrance-Drouin has been in the industry since 2007, working on different enterprise project. Based in Montréal, he spends most of his free time with his family, or keeps busy with programming, networking, building docker instances and thinkering with everything that relates to technology."
+author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #
@@ -159,7 +159,7 @@ social:
 # 404 page #
 ############
 
-img-404: "/img/labtocat.png"
+img-404: "/img/labtocat.jpg"
 
 ################################################################################
 
@@ -189,3 +189,10 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
