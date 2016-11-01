@@ -33,13 +33,13 @@ author: "Alexandre Lafrance-Drouin"
 title: "{ Code It Simple }"
 description: "Personal blog of Alexandre Lafrance-Drouin. Opinions expressed are mine."
 keywords: "Alexandre Lafrance-Drouin, technology, software engineering"
-favicon: "/img/favicon.ico"
+favicon: "/img/favicon-terminal.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/favicon.ico"
+black-favicon: "/img/favicon-terminal.ico"
 
 background-img: "../img/intro-bg.jpg"
 
