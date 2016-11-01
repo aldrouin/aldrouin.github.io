@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "If you can dream it, you can do it."
   - text: "It always seems impossible until it's done."
 
-me-img: "/img/author.jpg"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
@@ -74,12 +74,12 @@ web-app-mode: True
 
 # Icons for Web App mode
 
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
+icon-36p: "/img/web-app/Icon-ldpi.png"
+icon-48p: "/img/web-app/Icon-mdpi.png"
+icon-72p: "/img/web-app/Icon-hdpi.png"
+icon-96p: "/img/web-app/Icon-xhdpi.png"
+icon-144p: "/img/web-app/Icon-xxhdpi.png"
+icon-192p: "/img/web-app/Icon-xxxhdpi.png"
 
 ########
 # Blog #
@@ -137,7 +137,7 @@ email: "aldrouin@codeitsimple.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Alexandre Lafrance-Drouin has been in the industry since 2007, working on different enterprise project. Based in Montréal, he spends most of his free time with his family, or keeps busy with programming, networking, building docker instances and thinkering with everything that relates to technology."
-author_blurb_image: "/img/author.jpg"
+author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
