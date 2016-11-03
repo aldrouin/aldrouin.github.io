@@ -111,16 +111,21 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
-
+  - image: "/img/timeline/intact.png"
+    date: "September 2014 - Today"
+    description: "Building amazing solution at Intact Financial Corp"
+  - image: "/img/timeline/ultima.png"
+    date: "September 2013 - September 2014"
+    description: "Customer, meet broker, broker meet Insurers! Let's be friends!"
+  - image: "/img/timeline/protectron.jpg"
+    date: "September 2010 - September 2013"
+    description: "Are you safe? Let's make sure we process all the signals! By the way, your door is not closed properly!"
+  - image: "/img/timeline/roy.png"
+    date: "September 2004 - September 2011"
+    description: "You need a ninja? I'll be that ninja, from networking to programming, I've done it all here!"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/author.png"
 
 ###########
 # Contact #
