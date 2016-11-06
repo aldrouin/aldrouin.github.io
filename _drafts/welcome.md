@@ -5,8 +5,8 @@ categories:
 - rant
 tags:
 - welcome post
-layout: post
 section-type: post
+layout: post
 ---
 
 # Welcome on codeitsimple
