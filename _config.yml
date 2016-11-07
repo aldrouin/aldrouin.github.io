@@ -77,14 +77,10 @@ author_blurb: Alexandre Lafrance-Drouin has been in the industry since 2007, wor
   and thinkering with everything that relates to technology.
 author_blurb_image: "/img/author.png"
 social:
-- title: facebook
-  url: https://facebook.com/
 - title: twitter
-  url: https://twitter.com/
+  url: https://twitter.com/codeitsimple
 - title: github
-  url: https://github.com/PanosSakkos/personal-jekyll-theme
-- title: bitcoin
-  url: https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi
+  url: https://github.com/aldrouin
 - title: rss
   url: "/feed.xml"
 img-404: "/img/labtocat.jpg"
