@@ -13,19 +13,33 @@
   <title>{{site.title}}{% if page.title %} | {{page.title}}{% endif %}</title>
 
   <!-- Bootstrap Core CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="preload" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" as="style" onload="this.rel='bootstrap'">
+  <noscript><link rel="bootstrap" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"></noscript>
+  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">-->
 
   <!-- Custom CSS -->
-  <link href="{{site.baseurl}}/css/grayscale.css" rel="stylesheet">
+  <link rel="preload" href="{{site.baseurl}}/css/grayscale.css" as="style" onload="this.rel='grayscale'">
+  <noscript><link rel="grayscale" href="{{site.baseurl}}/css/grayscale.css"></noscript>
+  <!--<link href="{{site.baseurl}}/css/grayscale.css" rel="stylesheet">-->
   {% if page.section-type == "index" %}
-  <link href="{{site.baseurl}}/css/timeline.css" rel="stylesheet">
+  <link rel="preload" href="{{site.baseurl}}/css/timeline.css" as="style" onload="this.rel='timeline'">
+  <noscript><link rel="timeline" href="{{site.baseurl}}/css/timeline.css"></noscript>
+  <!--<link href="{{site.baseurl}}/css/timeline.css" rel="stylesheet">-->
   {% endif %}
 
   <!-- Custom Fonts -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-  <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-  <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="{{site.baseurl}}/css/rrssb.css" />
+  <link rel="preload" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" as="style" onload="this.rel='font-awesome'">
+  <noscript><link rel="font-awesome" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"></noscript>
+  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">-->
+  <link rel="preload" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" as="style" onload="this.rel='Lora'">
+  <noscript><link rel="Lora" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic"></noscript>
+  <!--<link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">-->
+  <link rel="preload" href="//fonts.googleapis.com/css?family=Montserrat:400,700" as="style" onload="this.rel='Montserrat'">
+  <noscript><link rel="Montserrat" href="//fonts.googleapis.com/css?family=Montserrat:400,700"></noscript>
+  <!--<link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">-->
+  <link rel="preload" href="{{site.baseurl}}/css/rrssb.css" as="style" onload="this.rel='rrssb'">
+  <noscript><link rel="rrssb" href="{{site.baseurl}}/css/rrssb.css"></noscript>
+  <!--<link rel="stylesheet" href="{{site.baseurl}}/css/rrssb.css" />-->
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
   <!--[if lt IE 9]>
