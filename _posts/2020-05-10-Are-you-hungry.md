@@ -13,10 +13,10 @@ date: 2020-05-10 00:00:00 Z
 
 # Are you hungry? Now?
 
-If you have younger kids or you have been through that, you probably understand what it means to have an Hangry kid. My one year and a half daugther is usually the most amazing toddler on the planet, but the swtich between not hungry and hungry is currently in it's first iteration, and there is no dimmer on it yet.
+If you have younger kids, you understand what it means to have an Hangry kid. My one and a half year old daughter is usually the most amazing toddler on the planet, but the swtich between not hungry and hungry is currently in it's first iteration, and there is no dimmer on it yet.
 
-That is why, having quality prepared meals on hand is very important.
+This is why having quality ready to cook meals on hand is very important.
 
-We use chef cook it for this and we would recommend it anytime!
+We use Chef Cook it for this and we would recommend it anytime!
 
 Please follow [this link](https://www.wethrift.com/chef-cook-it) for **50% off** on your first *two* orders!
