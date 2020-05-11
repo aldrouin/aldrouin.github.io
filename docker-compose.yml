@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+  jekyll:
+    image: jekyll/jekyll:pages
+    ports:
+      - "8080:4000"
+      - "8081:35729"
+    volumes:
+      - "./:/srv/jekyll"
+    command: ["jekyll", "serve", "--livereload"]
