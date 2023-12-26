@@ -1,6 +1,6 @@
 ---
 title: "{ Code It Simple }"
-timezone: UTC
+timezone: "America/Montreal"
 collections:
   posts:
     title: Posts
