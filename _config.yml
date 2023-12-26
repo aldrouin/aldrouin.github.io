@@ -4,8 +4,8 @@ timezone: America/Montreal
 collections:
   - posts
   - uploads
-include:
-  - .well-known
+keep_files:
+  - .well-known/cf-2fa-verify.txt
 url: https://codeitsimple.com
 baseurl: ''
 google-tracking-id: UA-86673704-1
