@@ -1,13 +1,11 @@
 ---
 title: "{ Code It Simple }"
-timezone: "America/Montreal"
+timezone: America/Montreal
 collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+  - posts
+  - uploads
+include:
+  - .well-known
 url: https://codeitsimple.com
 baseurl: ''
 google-tracking-id: UA-86673704-1
@@ -95,11 +93,14 @@ exclude:
 - CONTRIBUTING
 - CONTRIBUTORS
 - scripts
+- Gemfile
+- docker-compose.yml
 paginate_path: blog/page:num/
 sass:
   style: compressed
-gems:
+plugins:
 - jekyll-paginate
+- github-pages
 - jekyll-github-metadata
 - jekyll-relative-links
 - jekyll-titles-from-headings

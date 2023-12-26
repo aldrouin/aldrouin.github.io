@@ -7,7 +7,7 @@
 auto-save-list
 tramp
 .\#*
-
+!.well-known/
 _site/
 .sass-cache/
 *.swp
