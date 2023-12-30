@@ -6,6 +6,7 @@ collections:
   - uploads
 keep_files:
   - .well-known/cf-2fa-verify.txt
+  - loaderio-ba3a67ae60e4d0fb6a1d853a71cb083a.txt
 url: https://codeitsimple.com
 baseurl: ''
 google-tracking-id: UA-86673704-1
