@@ -5,6 +5,11 @@ collections:
   - posts
   - uploads
 keep_files:
+  - .well-known
+  - .well-known/cf-2fa-verify.txt
+  - loaderio-ba3a67ae60e4d0fb6a1d853a71cb083a.txt
+include:
+  - .well-known
   - .well-known/cf-2fa-verify.txt
   - loaderio-ba3a67ae60e4d0fb6a1d853a71cb083a.txt
 url: https://codeitsimple.com
